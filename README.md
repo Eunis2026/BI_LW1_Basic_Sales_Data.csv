@@ -68,7 +68,7 @@ Question:
 ##
 Task 3: Sort Sales
 1. Click Region Chart
-2. Click three dots (...)
+2. Click three dots (....)
 3. Sort by Sales Descending
 Question:
 ● Does sorting improve readability?
