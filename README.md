@@ -1,6 +1,6 @@
 # BI_LW1_Basic_Sales_Data.csv
 
-https://drive.google.com/drive/folders/1nFcIxpRrTJpoPz5FCBtGr-zZAesewJds?usp=sharing
+https://drive.google.com/file/d/1ToAyLUM0GqAF_Fu4ryFND3ZjCNvSXx44/view?usp=drive_link
 -this is the link for my PDF
 
 
