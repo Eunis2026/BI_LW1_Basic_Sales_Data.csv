@@ -41,7 +41,7 @@ Question:
 ● Is there growth?
 ## No, there's no growth in 2025.
 ● Any noticeable trend?
-##yup! the sales goes down in year 2025
+##yup! the sales goes down in year 2025.
 
 #PART 4: Basic Data Insight Interpretation
 Question:
