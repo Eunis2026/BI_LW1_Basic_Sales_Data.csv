@@ -1,6 +1,9 @@
 # BI_LW1_Basic_Sales_Data.csv
 
-#https://drive.google.com/file/d/1ToAyLUM0GqAF_Fu4ryFND3ZjCNvSXx44/view?usp=drive_link
+https://drive.google.com/drive/folders/1nFcIxpRrTJpoPz5FCBtGr-zZAesewJds?usp=sharing
+-this is the link for my PDF
+
+
 #Part 1 | Step 1: Open Power BI Desktop 
 <img width="1896" height="960" alt="Screenshot 2026-02-26 085057" src="https://github.com/user-attachments/assets/15da7684-761e-4f24-90dd-e1f3d6865d76" />
 
